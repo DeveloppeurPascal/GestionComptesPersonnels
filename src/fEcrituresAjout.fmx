@@ -1,0 +1,173 @@
+object frmEcrituresAjout: TfrmEcrituresAjout
+  Left = 0
+  Top = 0
+  BorderStyle = Single
+  Caption = 'Ajout d'#39'une d'#233'pense / recette'
+  ClientHeight = 438
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnClose = FormClose
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Bottom
+    Position.Y = 374.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 64.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object btnOk: TButton
+      Align = Right
+      Default = True
+      Margins.Left = 10.000000000000000000
+      Margins.Top = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Margins.Bottom = 10.000000000000000000
+      Position.X = 450.000000000000000000
+      Position.Y = 10.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'OK'
+      OnClick = btnOkClick
+    end
+    object btnCancel: TButton
+      Align = Right
+      Cancel = True
+      Margins.Left = 10.000000000000000000
+      Margins.Top = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Margins.Bottom = 10.000000000000000000
+      Position.X = 550.000000000000000000
+      Position.Y = 10.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Annuler'
+      OnClick = btnCancelClick
+    end
+  end
+  object VertScrollBox1: TVertScrollBox
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 374.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 640.000000000000000000
+    Viewport.Height = 374.000000000000000000
+    object lblCategorie: TLabel
+      Align = Top
+      FocusControl = cbCategorie
+      Margins.Left = 10.000000000000000000
+      Margins.Top = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Margins.Bottom = 10.000000000000000000
+      Position.X = 10.000000000000000000
+      Position.Y = 10.000000000000000000
+      Size.Width = 620.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.VertAlign = Leading
+      Text = 'Cat'#233'gorie'
+      TabOrder = 0
+      object cbCategorie: TComboBox
+        Align = Bottom
+        Position.Y = 26.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 44.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 4
+      end
+    end
+    object lblDate: TLabel
+      Align = Top
+      FocusControl = edtDate
+      Margins.Left = 10.000000000000000000
+      Margins.Top = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Margins.Bottom = 10.000000000000000000
+      Position.X = 10.000000000000000000
+      Position.Y = 100.000000000000000000
+      Size.Width = 620.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.VertAlign = Leading
+      Text = 'Date'
+      TabOrder = 1
+      object edtDate: TDateEdit
+        Date = 44245.000000000000000000
+        Align = Bottom
+        Position.Y = 26.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 44.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 4
+      end
+    end
+    object lblLibelle: TLabel
+      Align = Top
+      FocusControl = edtLibelle
+      Margins.Left = 10.000000000000000000
+      Margins.Top = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Margins.Bottom = 10.000000000000000000
+      Position.X = 10.000000000000000000
+      Position.Y = 190.000000000000000000
+      Size.Width = 620.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.VertAlign = Leading
+      Text = 'Libell'#233
+      TabOrder = 2
+      object edtLibelle: TEdit
+        Touch.InteractiveGestures = [LongTap, DoubleTap]
+        Align = Bottom
+        TabOrder = 4
+        Position.Y = 26.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 44.000000000000000000
+        Size.PlatformDefault = False
+        TextPrompt = 'libell'#233' de l'#39#233'criture'
+      end
+    end
+    object lblMontant: TLabel
+      Align = Top
+      FocusControl = edtMontant
+      Margins.Left = 10.000000000000000000
+      Margins.Top = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Margins.Bottom = 10.000000000000000000
+      Position.X = 10.000000000000000000
+      Position.Y = 280.000000000000000000
+      Size.Width = 620.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.VertAlign = Leading
+      Text = 'Montant'
+      TabOrder = 3
+      object edtMontant: TNumberBox
+        Touch.InteractiveGestures = [LongTap, DoubleTap]
+        Align = Bottom
+        TabOrder = 4
+        Cursor = crIBeam
+        Max = 1000000000.000000000000000000
+        ValueType = Float
+        Position.Y = 26.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 44.000000000000000000
+        Size.PlatformDefault = False
+      end
+    end
+  end
+  object qryCategories: TFDQuery
+    Connection = db.dbc
+    SQL.Strings = (
+      'select * from categories order by libelle')
+    Left = 72
+    Top = 384
+  end
+end
