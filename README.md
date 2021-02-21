@@ -13,7 +13,11 @@ La saisie des comptes, des catégories et des écritures est opérationnelle, il
 
 En bref, le système est une base de travail si vous voulez en faire quelque chose. Un lien vers ici dans les remerciements ou crédits étant toujours les bienvenus.
 
-Ce programme a été réalisé à l'occasion d'un livestream sur Twitch le jeudi 18 février 2021. Pour voir sa redifusion ou les sessions suivantes, rendez-vous sur https://www.twitch.tv/patrickpremartin ou https://developpeur-pascal.fr/p/_600e-livestreams-de-codage-en-direct-avec-delphi.html
+Plus d'infos sur ce projet et revoir sa session de codage en direct sous Delphi sur https://developpeur-pascal.fr/p/_300b-live-stream-delphi-du-18-fevrier-2021-codage-d-un-logiciel-multiplateforme-de-gestion-de-comptes-personnels.html
+
+Pour connaître le programme des prochains live streams Twitch, rendez-vous sur https://developpeur-pascal.fr/p/_600e-livestreams-de-codage-en-direct-avec-delphi.html
+
+Et pour me suivre sur Twitch, rendez-vous sur https://www.twitch.tv/patrickpremartin dès maintenant. Vous serez y averti automatiquement des prochaines sessions.
 
 -----
 
