@@ -21,6 +21,12 @@ Et pour me suivre sur Twitch, rendez-vous sur https://www.twitch.tv/patrickprema
 
 -----
 
+Une version alternative et plus jolie de ce projet a été développée par Serge Girard. Elle est disponible sur le dépôt https://github.com/Serge-Girard/GestionComptesPersonnels
+
+Si vous en faites également une version, pensez à ajouter "gestion-comptes-personnels" dans les mots clés de votre dépôt pour qu'ils soient liés les uns aux autres et me le signaler pour que j'ajoute un éventuel lien ici.
+
+-----
+
 Si vous ne connaissez pas Delphi et le langage Pascal, profitez de la version Academic (pour les étudiants, enseignants et établissements d'enseignement) ou Community Edition (gratuite pour une utilisation personnelle) disponibles chez Embarcadero :
 https://www.embarcadero.com/products/delphi
 
