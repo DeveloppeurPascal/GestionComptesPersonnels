@@ -1,10 +1,21 @@
-# Delphi-Projects-Template
+# Personal account management
 
 [Cette page en français.](LISEZMOI.md)
 
-**A git repository template for my Delphi (or other) projects.**
+[Personal account management software](https://comptespersonnels.olfsoftware.fr/) to enter expenses and receipts attached to an account (collecting multiple entries) and a category (for subsequent sorting).
 
-**This template is distributed under the MIT license. The AGPL license is for the projects I create from this code repository template. Use whatever license you want if you use this template.**
+You can now enter accounts, categories and entries, and all that's left to do is add functions such as :
+- modifying an existing expense or revenue line
+- changing program colors and input buttons
+- adding a password to the production database and changing the folder in which it is stored
+- the possibility of creating several input databases (thus a choice at program startup)
+- synchronization or sharing of databases between different devices
+- the ability to enter expenses from a smartphone and save or import them into the database stored on Windows, macOS or Linux
+- addition of graphs by account, category, summary tables of current expenses and income, etc.
+
+In short, version 1.x is a working base that you can build on. A link to here in the acknowledgements or credits is always welcome.
+
+The first version of this software was developed during a [live coding session on Twitch](https://www.twitch.tv/patrickpremartin) on [February 18, 2021](https://developpeur-pascal.fr/live-stream-delphi-du-18-fevrier-2021-codage-d-un-logiciel-multiplateforme-de-gestion-de-comptes-personnels.html). [A VOD page](https://serialstreameur.fr/poc-comptes-personnels.php) is dedicated to it on [Serial Streameur](https://serialstreameur.fr) and more details on how the program works will be available on [Développeur Pascal](https://developpeur-pascal.fr).
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
@@ -30,6 +41,14 @@ This project uses dependencies in the form of sub-modules. They will be absent f
 
 * [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
 * [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
+
+## Alternative version(s)
+
+[Serge Girard](https://github.com/Serge-Girard) has proposed an alternative version based on the basic features of 1.0 shown in the stream. It's available on [his code repository](https://github.com/Serge-Girard/GestionComptesPersonnels). He has integrated two themes (light/dark) and a few additional features.
+
+He was able to comment on his version during another development session on [Twitch](https://www.twitch.tv/patrickpremartin), a replay of which will soon be available online.
+
+If the publication of these code repositories has inspired you and you're developing your own version or want to share an older, similar project (to which you have the rights, of course), add "gestion-comptes-personnels" to the keywords of your repository so that they're linked to each other, and let me know so that I can add a possible link here, on a blog or talk about it during a future coding session on Twitch.
 
 ## License to use this code repository and its contents
 

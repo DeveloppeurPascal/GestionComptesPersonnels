@@ -1,10 +1,21 @@
-# Delphi-Projects-Template
+# Gestion de Comptes Personnels
 
 [This page in english.](README.md)
 
-**Un modèle de dépôt git pour mes projets Delphi (ou autres).**
+[Logiciel de gestion de comptes personnels](https://comptespersonnels.olfsoftware.fr/) pour saisir des dépenses et des recettes attachées à un compte (recueillant plusieurs écritures) et une catégories (pour faire des classements ensuite).
 
-**Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.**
+La saisie des comptes, des catégories et des écritures est opérationnelle, il ne vous reste plus qu'à ajouter des fonctionnalités comme :
+- la modification d'une ligne dépense ou recette existante
+- le changement des couleurs du programme et des boutons de saisie
+- l'ajout d'un mot de passe à la base de données de production et le changement du dossier dans lequel elle est stockée
+- la possibilité de créer plusieurs bases de données de saisie (donc un choix au démarrage du programme)
+- des synchronisations ou partages de bases de données entre différents appareils
+- pouvoir saisir des dépenses depuis un smartphone et les enregistrer ou importer dans la base stockée sur Windows, macOS ou Linux
+- l'ajout de graphiques par compte, catégorie, des tableaux de récapitulation des dépenses etrecettes courantes, ...
+
+En bref, cette version 1.x est une base de travail que vous pouvez faire évoluer. Un lien vers ici dans les remerciements ou crédits étant toujours les bienvenus.
+
+La première version de ce logiciel a été développée lors d'une session de [codage en direct sur Twitch](https://www.twitch.tv/patrickpremartin) le [18 février 2021](https://developpeur-pascal.fr/live-stream-delphi-du-18-fevrier-2021-codage-d-un-logiciel-multiplateforme-de-gestion-de-comptes-personnels.html). [Une page VOD](https://serialstreameur.fr/poc-comptes-personnels.php) lui est consacrée sur [Serial Streameur](https://serialstreameur.fr) et plus de détails sur le fonctionnement du programme seront proposés sur [Développeur Pascal](https://developpeur-pascal.fr).
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
@@ -30,6 +41,14 @@ Ce projet utilise des dépendances sous forme de sous modules. Ils seront absent
 
 * [YYY](ZZZ) doit être installé dans le sous dossier ./lib-externes/YYY
 * [YYY](ZZZ) doit être installé dans le sous dossier ./lib-externes/YYY
+
+## Version(s) alternative(s)
+
+[Serge Girard](https://github.com/Serge-Girard) a proposé une version alternative basée sur les fonctionnalités de bases de la 1.0 montrée en stream. Elle est disponible sur [son dépôt de code](https://github.com/Serge-Girard/GestionComptesPersonnels). Il y a intégré deux thèmes (clair / sombres) et quelques fonctionnalités complémentaires.
+
+Il a pu commenter sa version lors d'une autre session de développement proposée sur [Twitch](https://www.twitch.tv/patrickpremartin) dont la rediffusion sera prochainement mise en ligne.
+
+Si la publication de ces dépôts de code vous a inspiré et que vous développez votre propre versions ou voulez partager un projet similaire plus ancien (dont vous avez bien entendu les droits), ajoutez "gestion-comptes-personnels" dans les mots clés de votre dépôt pour qu'ils soient liés les uns aux autres et prévenez moi pour que j'ajoute un éventuel lien ici, sur un blog ou en parle lors d'une future session de codage sur Twitch.
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
