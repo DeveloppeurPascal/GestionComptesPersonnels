@@ -1,0 +1,712 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="Window Styles" value="0x800227">
+    </OBJECT>
+    <UL>      <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="ComptesPersonnels">
+          <param name="Local" value="ComptesPersonnels.html">
+          </OBJECT>
+          <UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fCategories">
+                  <param name="Local" value="fCategories.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmCategories">
+                                  <param name="Local" value="fCategories.TfrmCategories.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRetourClick">
+                                                  <param name="Local" value="fCategories.TfrmCategories.btnRetourClick.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindNavigator1">
+                                                  <param name="Local" value="fCategories.TfrmCategories.BindNavigator1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindSourceDB1">
+                                                  <param name="Local" value="fCategories.TfrmCategories.BindSourceDB1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindSourceDB2">
+                                                  <param name="Local" value="fCategories.TfrmCategories.BindSourceDB2.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindingsList1">
+                                                  <param name="Local" value="fCategories.TfrmCategories.BindingsList1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="LinkGridToDataSourceBindSourceDB2">
+                                                  <param name="Local" value="fCategories.TfrmCategories.LinkGridToDataSourceBindSourceDB2.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StringGrid1">
+                                                  <param name="Local" value="fCategories.TfrmCategories.StringGrid1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRetour">
+                                                  <param name="Local" value="fCategories.TfrmCategories.btnRetour.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmCategories">
+                                  <param name="Local" value="fCategories.frmCategories.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fComptes">
+                  <param name="Local" value="fComptes.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmComptes">
+                                  <param name="Local" value="fComptes.TfrmComptes.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRetourClick">
+                                                  <param name="Local" value="fComptes.TfrmComptes.btnRetourClick.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindNavigator1">
+                                                  <param name="Local" value="fComptes.TfrmComptes.BindNavigator1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindSourceDB1">
+                                                  <param name="Local" value="fComptes.TfrmComptes.BindSourceDB1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindingsList1">
+                                                  <param name="Local" value="fComptes.TfrmComptes.BindingsList1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="LinkGridToDataSourceBindSourceDB1">
+                                                  <param name="Local" value="fComptes.TfrmComptes.LinkGridToDataSourceBindSourceDB1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StringGrid1">
+                                                  <param name="Local" value="fComptes.TfrmComptes.StringGrid1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRetour">
+                                                  <param name="Local" value="fComptes.TfrmComptes.btnRetour.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmComptes">
+                                  <param name="Local" value="fComptes.frmComptes.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fEcritures">
+                  <param name="Local" value="fEcritures.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmEcritures">
+                                  <param name="Local" value="fEcritures.TfrmEcritures.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FormShow">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.FormShow.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnAddDepenseClick">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.btnAddDepenseClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnAddRecetteClick">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.btnAddRecetteClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRetourClick">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.btnRetourClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="cbComptesChange">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.cbComptesChange.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcrituresCalcFields">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcrituresCalcFields.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindNavigator1">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.BindNavigator1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindSourceDB1">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.BindSourceDB1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindSourceDB2">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.BindSourceDB2.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BindingsList1">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.BindingsList1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ImageList1">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.ImageList1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Layout1">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.Layout1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="LinkGridToDataSourceBindSourceDB2">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.LinkGridToDataSourceBindSourceDB2.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StringGrid1">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.StringGrid1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnAddDepense">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.btnAddDepense.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnAddRecette">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.btnAddRecette.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRetour">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.btnRetour.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="cbComptes">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.cbComptes.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryComptes">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryComptes.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcritures">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcritures.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcrituresDateNormale">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcrituresDateNormale.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcrituresMontantPlusMoins">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcrituresMontantPlusMoins.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcriturescategorie_id">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcriturescategorie_id.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcriturescategorie_libelle">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcriturescategorie_libelle.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcriturescompte_id">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcriturescompte_id.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcrituresdate">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcrituresdate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcrituresid">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcrituresid.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcritureslibelle">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcritureslibelle.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcrituresmontant">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcrituresmontant.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryEcrituressens">
+                                                  <param name="Local" value="fEcritures.TfrmEcritures.qryEcrituressens.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmEcritures">
+                                  <param name="Local" value="fEcritures.frmEcritures.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fEcrituresAjout">
+                  <param name="Local" value="fEcrituresAjout.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmEcrituresAjout">
+                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Compte_ID">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.Compte_ID.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="SensEcriture">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.SensEcriture.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="onActionSuiteAAjout">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.onActionSuiteAAjout.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FormClose">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.FormClose.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FormCreate">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.FormCreate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnCancelClick">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.btnCancelClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnOkClick">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.btnOkClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="execute">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.execute.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Layout1">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.Layout1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="VertScrollBox1">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.VertScrollBox1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnCancel">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.btnCancel.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnOk">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.btnOk.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="cbCategorie">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.cbCategorie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="edtDate">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.edtDate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="edtLibelle">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.edtLibelle.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="edtMontant">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.edtMontant.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="lblCategorie">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.lblCategorie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="lblDate">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.lblDate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="lblLibelle">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.lblLibelle.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="lblMontant">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.lblMontant.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="qryCategories">
+                                                  <param name="Local" value="fEcrituresAjout.TfrmEcrituresAjout.qryCategories.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmEcrituresAjout">
+                                  <param name="Local" value="fEcrituresAjout.frmEcrituresAjout.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fMain">
+                  <param name="Local" value="fMain.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmMain">
+                                  <param name="Local" value="fMain.TfrmMain.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FormCreate">
+                                                  <param name="Local" value="fMain.TfrmMain.FormCreate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnCategoriesClick">
+                                                  <param name="Local" value="fMain.TfrmMain.btnCategoriesClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnComptesClick">
+                                                  <param name="Local" value="fMain.TfrmMain.btnComptesClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnEcrituresClick">
+                                                  <param name="Local" value="fMain.TfrmMain.btnEcrituresClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnQuitterClick">
+                                                  <param name="Local" value="fMain.TfrmMain.btnQuitterClick.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnCategories">
+                                                  <param name="Local" value="fMain.TfrmMain.btnCategories.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnComptes">
+                                                  <param name="Local" value="fMain.TfrmMain.btnComptes.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnEcritures">
+                                                  <param name="Local" value="fMain.TfrmMain.btnEcritures.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnQuitter">
+                                                  <param name="Local" value="fMain.TfrmMain.btnQuitter.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmMain">
+                                  <param name="Local" value="fMain.frmMain.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uDB">
+                  <param name="Local" value="uDB.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="Tdb">
+                                  <param name="Local" value="uDB.Tdb.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="DataModuleCreate">
+                                                  <param name="Local" value="uDB.Tdb.DataModuleCreate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="dbcAfterConnect">
+                                                  <param name="Local" value="uDB.Tdb.dbcAfterConnect.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="dbcBeforeConnect">
+                                                  <param name="Local" value="uDB.Tdb.dbcBeforeConnect.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FDPhysSQLiteDriverLink1">
+                                                  <param name="Local" value="uDB.Tdb.FDPhysSQLiteDriverLink1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FDScript1">
+                                                  <param name="Local" value="uDB.Tdb.FDScript1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="dbc">
+                                                  <param name="Local" value="uDB.Tdb.dbc.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabCategories">
+                                                  <param name="Local" value="uDB.Tdb.tabCategories.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabCategoriesid">
+                                                  <param name="Local" value="uDB.Tdb.tabCategoriesid.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabCategorieslibelle">
+                                                  <param name="Local" value="uDB.Tdb.tabCategorieslibelle.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabComptes">
+                                                  <param name="Local" value="uDB.Tdb.tabComptes.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabComptesid">
+                                                  <param name="Local" value="uDB.Tdb.tabComptesid.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabCompteslibelle">
+                                                  <param name="Local" value="uDB.Tdb.tabCompteslibelle.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabEcritures">
+                                                  <param name="Local" value="uDB.Tdb.tabEcritures.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabEcriturescategorie_id">
+                                                  <param name="Local" value="uDB.Tdb.tabEcriturescategorie_id.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabEcriturescompte_id">
+                                                  <param name="Local" value="uDB.Tdb.tabEcriturescompte_id.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabEcrituresdate">
+                                                  <param name="Local" value="uDB.Tdb.tabEcrituresdate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabEcrituresid">
+                                                  <param name="Local" value="uDB.Tdb.tabEcrituresid.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabEcritureslibelle">
+                                                  <param name="Local" value="uDB.Tdb.tabEcritureslibelle.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabEcrituresmontant">
+                                                  <param name="Local" value="uDB.Tdb.tabEcrituresmontant.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabEcrituressens">
+                                                  <param name="Local" value="uDB.Tdb.tabEcrituressens.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="DB">
+                                  <param name="Local" value="uDB.DB.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uDMStyle">
+                  <param name="Local" value="uDMStyle.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDMStyle">
+                                  <param name="Local" value="uDMStyle.TDMStyle.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StyleBook1">
+                                                  <param name="Local" value="uDMStyle.TDMStyle.StyleBook1.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="DMStyle">
+                                  <param name="Local" value="uDMStyle.DMStyle.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uDateTools">
+                  <param name="Local" value="uDateTools.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="AAAAMMJJToDate">
+                                  <param name="Local" value="uDateTools.AAAAMMJJToDate.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="DateToAAAAMMJJ">
+                                  <param name="Local" value="uDateTools.DateToAAAAMMJJ.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uSensEcriture">
+                  <param name="Local" value="uSensEcriture.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Enumerations">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TSensEcriture">
+                                  <param name="Local" value="uSensEcriture.TSensEcriture.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Depense">
+                                          <param name="Local" value="uSensEcriture.TSensEcriture.Depense.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Recette">
+                                          <param name="Local" value="uSensEcriture.TSensEcriture.Recette.html">
+                                          </OBJECT>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="getPlusMoinsFromSensEcriture">
+                                  <param name="Local" value="uSensEcriture.getPlusMoinsFromSensEcriture.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="getSensEcritureFromPlusMoins">
+                                  <param name="Local" value="uSensEcriture.getSensEcritureFromPlusMoins.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+          </UL>
+    </UL>
+</BODY>
+</HTML>
